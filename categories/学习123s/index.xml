@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on 我的博客</title>
-        <link>http://localhost:1313/post/</link>
-        <description>Recent content in Posts on 我的博客</description>
+        <title>学习123S on 我的博客</title>
+        <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0123s/</link>
+        <description>Recent content in 学习123S on 我的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>果冻建站</copyright>
-        <lastBuildDate>Fri, 08 Nov 2024 21:31:19 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 08 Nov 2024 21:31:19 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0123s/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>如何学好数学</title>
         <link>http://localhost:1313/p/%E5%A6%82%E4%BD%95%E5%AD%A6%E5%A5%BD%E6%95%B0%E5%AD%A6/</link>
         <pubDate>Fri, 08 Nov 2024 21:31:19 +0800</pubDate>
@@ -38,36 +38,6 @@
 &lt;p&gt;很多优秀的数学家都不擅长计算，很多数学教育专家都在强调学数学要慢下来，因为数学本质上是思考，而不是算数，快速找到答案并不是目的。&lt;/p&gt;
 &lt;p&gt;华裔数学家丘成桐教授在做客央视演讲节目《开讲啦》时，被现场一名学生提出的计算问题难住了。对此，邱教授直言，他确实不擅长计算。&lt;/p&gt;
 &lt;p&gt;小学阶段的速算练习，一味追求速度，对长远的数学学习而言，并无益处。当孩子对运算法则理解透彻了，加上适当练习带来的熟练度，做题速度自然就上来了。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Python</title>
-        <link>http://localhost:1313/p/python/</link>
-        <pubDate>Fri, 08 Nov 2024 21:18:15 +0800</pubDate>
-        
-        <guid>http://localhost:1313/p/python/</guid>
-        <description>&lt;h1 id=&#34;一运算符&#34;&gt;一、运算符
-&lt;/h1&gt;&lt;p&gt;本章节主要说明Python的运算符。举个简单的例子 &lt;strong&gt;4 +5 = 9&lt;/strong&gt; 。 例子中，&lt;strong&gt;4&lt;/strong&gt; 和 &lt;strong&gt;5&lt;/strong&gt; 被称为&lt;strong&gt;操作数&lt;/strong&gt;，&lt;strong&gt;+&lt;/strong&gt; 称为运算符。&lt;/p&gt;
-&lt;p&gt;Python语言支持以下类型的运算符:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;算术运算符&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;比较（关系）运算符&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;赋值运算符&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;逻辑运算符&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;位运算符&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;成员运算符&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;身份运算符&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;运算符优先级&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;接下来让我们一个个来学习Python的运算符。&lt;/p&gt;
 </description>
         </item>
         

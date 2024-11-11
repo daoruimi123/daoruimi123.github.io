@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Python on 我的博客</title>
+        <link>http://localhost:1313/categories/python/</link>
+        <description>Recent content in Python on 我的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>果冻建站</copyright>
+        <lastBuildDate>Fri, 08 Nov 2024 21:18:15 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/python/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Python</title>
+        <link>http://localhost:1313/p/python/</link>
+        <pubDate>Fri, 08 Nov 2024 21:18:15 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/python/</guid>
+        <description>&lt;h1 id=&#34;一运算符&#34;&gt;一、运算符
+&lt;/h1&gt;&lt;p&gt;本章节主要说明Python的运算符。举个简单的例子 &lt;strong&gt;4 +5 = 9&lt;/strong&gt; 。 例子中，&lt;strong&gt;4&lt;/strong&gt; 和 &lt;strong&gt;5&lt;/strong&gt; 被称为&lt;strong&gt;操作数&lt;/strong&gt;，&lt;strong&gt;+&lt;/strong&gt; 称为运算符。&lt;/p&gt;
+&lt;p&gt;Python语言支持以下类型的运算符:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;算术运算符&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;比较（关系）运算符&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;赋值运算符&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;逻辑运算符&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;位运算符&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;成员运算符&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;身份运算符&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/python/python-operators.html#ysf8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;运算符优先级&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;接下来让我们一个个来学习Python的运算符。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
