@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>手机 on 我的博客</title>
+        <link>http://localhost:1313/categories/%E6%89%8B%E6%9C%BA/</link>
+        <description>Recent content in 手机 on 我的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>果冻建站</copyright>
+        <lastBuildDate>Fri, 08 Nov 2024 21:31:19 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%89%8B%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Scrcpy安卓投屏神器</title>
+        <link>http://localhost:1313/p/scrcpy%E5%AE%89%E5%8D%93%E6%8A%95%E5%B1%8F%E7%A5%9E%E5%99%A8/</link>
+        <pubDate>Fri, 08 Nov 2024 21:31:19 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/scrcpy%E5%AE%89%E5%8D%93%E6%8A%95%E5%B1%8F%E7%A5%9E%E5%99%A8/</guid>
+        <description>&lt;h3 id=&#34;scrcpyhttpssocsdnnetsosearchqscrcpyspm1001210130017020是一款免费开源的投屏软件它可以将安卓设备的屏幕投射到windowsmacoslinux等操作系统上并允许用户通过电脑直接控制设备&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://so.csdn.net/so/search?q=Scrcpy&amp;amp;spm=1001.2101.3001.7020&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Scrcpy&lt;/a&gt;是一款免费开源的投屏软件，它可以将安卓设备的屏幕投射到Windows、macOS、Linux等操作系统上，并允许用户通过电脑直接控制设备。
+&lt;/h3&gt;&lt;h2 id=&#34;一scrcpy简介&#34;&gt;一、Scrcpy简介
+&lt;/h2&gt;&lt;p&gt;Scrcpy由Genymobile开发，旨在为用户提供一种高效、可靠的安卓设备&lt;a class=&#34;link&#34; href=&#34;https://so.csdn.net/so/search?q=%e5%b1%8f%e5%b9%95%e9%95%9c%e5%83%8f&amp;amp;spm=1001.2101.3001.7020&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;屏幕镜像&lt;/a&gt;和操作控制工具。&lt;/p&gt;
+&lt;h3 id=&#34;11-基本概述&#34;&gt;1.1. 基本概述
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;名称由来&lt;/strong&gt;：Scrcpy是screen copy的简写，意为屏幕复制。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;平台支持&lt;/strong&gt;：支持Windows、macOS、Linux等多种操作系统，具有跨平台特性。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;功能特点&lt;/strong&gt;：能够实现安卓设备屏幕的高清投屏，并支持通过电脑直接对手机进行交互和录制。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;12-主要功能&#34;&gt;1.2. 主要功能
+&lt;/h3&gt;&lt;h4 id=&#34;121-屏幕镜像&#34;&gt;&lt;strong&gt;1.2.1. 屏幕镜像&lt;/strong&gt;
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;实时将安卓设备的屏幕投射到计算机上，并在计算机屏幕上实时显示设备的操作界面。&lt;/li&gt;
+&lt;li&gt;支持高质量的屏幕投射，分辨率可达1920×1080或以上，帧率在30~120fps之间，具体取决于设备性能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;122-操作控制&#34;&gt;&lt;strong&gt;1.2.2. 操作控制&lt;/strong&gt;
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;用户可以在计算机上直接操作安卓设备，包括鼠标点击、键盘输入、滑动触摸屏等。&lt;/li&gt;
+&lt;li&gt;支持多点触控和物理按键映射，能够更加精细地模拟用户操作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;123-视频录制和截图&#34;&gt;&lt;strong&gt;1.2.3. 视频录制和截图&lt;/strong&gt;
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;允许用户对设备屏幕进行录制和截图，以便于用户记录和分享设备上的内容。&lt;/li&gt;
+&lt;li&gt;可以通过命令行参数启用该功能，如&lt;code&gt;--record &amp;lt;文件名&amp;gt;.mp4&lt;/code&gt;用于启动屏幕录制，&lt;code&gt;--screen-touch &amp;lt;文件名&amp;gt;.png&lt;/code&gt;用于启动屏幕截图（但请注意，Scrcpy本身可能不直接支持截图，此功能可能需要通过ADB或其他工具实现）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;124-无线连接&#34;&gt;&lt;strong&gt;1.2.4. 无线连接&lt;/strong&gt;
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;除了通过USB连接外，Scrcpy还支持通过Wi-Fi无线连接来实现远程控制的功能。&lt;/li&gt;
+&lt;li&gt;用户需要确保设备和计算机都连接到同一个Wi-Fi网络，并在命令行中输入相应的参数来建立连接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;125-多设备连接&#34;&gt;&lt;strong&gt;1.2.5. 多设备连接&lt;/strong&gt;
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;允许同时连接多个安卓设备，并在计算机上进行切换和操作。&lt;/li&gt;
+&lt;li&gt;这对于开发者来说尤为重要，可以方便地进行多设备的调试和测试工作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;二使用场景&#34;&gt;二、使用场景
+&lt;/h2&gt;&lt;p&gt;Scrcpy因其独特的功能和灵活性，在多个领域和场景中都有着广泛的应用，包括但不限于以下几个方面。&lt;/p&gt;
+&lt;h3 id=&#34;21-开发调试&#34;&gt;2.1. 开发调试
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;对于Android开发者而言，Scrcpy是一个不可或缺的调试工具。它允许开发者将正在开发的Android应用程序的屏幕实时投射到电脑屏幕上，这样开发者就可以在更大的屏幕上查看应用程序的界面和布局，更清晰地识别界面元素和潜在的布局问题。此外，Scrcpy还支持通过键盘和鼠标直接操作Android设备，使得开发者能够模拟用户行为，测试应用程序的交互性和功能性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;22-游戏录制&#34;&gt;2.2. 游戏录制
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;对于游戏玩家和游戏主播来说，Scrcpy提供了一个方便的方式来录制和分享游戏过程。通过将Android设备的屏幕投射到电脑上，玩家可以利用电脑上更强大的录屏软件来录制游戏画面，并添加解说、字幕等额外内容。此外，大屏幕显示也能提升游戏的沉浸感和观赏性，让游戏录制更加精彩。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;23-教学演示&#34;&gt;2.3. 教学演示
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;在教育领域，Scrcpy同样发挥着重要作用。教育工作者或演讲者可以使用Scrcpy将Android设备的屏幕投射到教室或会议室的电脑上，进行演示和展示。这种方式比传统的手机展示更加清晰和便捷，能够吸引学生的注意力，提高教学效果。同时，Scrcpy还支持多设备连接，使得教师可以轻松地切换不同的设备或应用程序进行演示。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;24-远程协助&#34;&gt;2.4. 远程协助
+&lt;/h3&gt;&lt;p&gt;在远程工作和管理方面，Scrcpy也提供了一种有效的解决方案。通过局域网或互联网远程连接Android设备，用户可以在任何地点对设备进行控制和操作。这对于远程技术支持、设备维护和远程办公等场景非常有用。例如，技术支持人员可以使用Scrcpy远程查看用户的设备屏幕，诊断问题并提供解决方案；企业管理人员可以远程监控和管理员工的工作设备，确保工作效率和安全性。&lt;/p&gt;
+&lt;h2 id=&#34;三安装与配置&#34;&gt;三、安装与配置
+&lt;/h2&gt;&lt;p&gt;Scrcpy的安装和配置相对简单，用户可以从Scrcpy的官方GitHub页面或其他可靠的软件下载网站下载对应操作系统的安装包或压缩包。安装完成后，只需开启手机的开发者选项和USB调试模式，并通过USB或无线方式将设备连接到计算机上，即可开始使用Scrcpy进行投屏和控制操作。&lt;/p&gt;
+&lt;h3 id=&#34;31-安装scrcpy&#34;&gt;3.1. 安装Scrcpy
+&lt;/h3&gt;&lt;h4 id=&#34;311-下载scrcpy&#34;&gt;&lt;strong&gt;3.1.1. 下载Scrcpy&lt;/strong&gt;
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;访问Scrcpy的&lt;a class=&#34;link&#34; href=&#34;https://github.com/Genymobile/scrcpy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官方GitHub页面&lt;/a&gt;或使用搜索引擎查找可靠的软件下载网站。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
