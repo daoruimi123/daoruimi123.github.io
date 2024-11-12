@@ -17,16 +17,15 @@
 &lt;p&gt;你是不是想找一款免费并且最好用的视频录制工具呢？&lt;/p&gt;
 &lt;p&gt;你是不是想要马上在视频平台上发布自己喜欢的视频呢?&lt;/p&gt;
 &lt;p&gt;那今天我就给大家介绍一个世界上最好用的免费视频录制工具&lt;code&gt;OBS Studio&lt;/code&gt;&lt;/p&gt;
-&lt;h4 id=&#34;obs-studio介绍&#34;&gt;OBS Studio介绍
-&lt;/h4&gt;&lt;p&gt;视频录制的方式和工具有很多，但不管你用过哪种录制工具，我个人觉得都没有&lt;code&gt;OBS Studio&lt;/code&gt;强大，基本上现在发布视频的大佬们都在用的视频录制工具就是&lt;code&gt;OBS Studio&lt;/code&gt;, 并且这款视频录制工具还支持&lt;code&gt;mac、linux&lt;/code&gt;平台和很多有趣的扩展小插件,最最关键的是在于它是&lt;code&gt;完全免费&lt;/code&gt;的,官方网站地址如下:&lt;/p&gt;
+&lt;h2 id=&#34;obs-studio介绍&#34;&gt;OBS Studio介绍
+&lt;/h2&gt;&lt;p&gt;视频录制的方式和工具有很多，但不管你用过哪种录制工具，我个人觉得都没有&lt;code&gt;OBS Studio&lt;/code&gt;强大，基本上现在发布视频的大佬们都在用的视频录制工具就是&lt;code&gt;OBS Studio&lt;/code&gt;, 并且这款视频录制工具还支持&lt;code&gt;mac、linux&lt;/code&gt;平台和很多有趣的扩展小插件,最最关键的是在于它是&lt;code&gt;完全免费&lt;/code&gt;的,官方网站地址如下:&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://obsproject.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://obsproject.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;obs-studio安装&#34;&gt;OBS Studio安装
-&lt;/h4&gt;&lt;p&gt;安装也是非常简单的，就跟一般软件安装差不多, 重点注意安装路径选择自己合适的安装目录就可以了!&lt;/p&gt;
+&lt;h2 id=&#34;obs-studio安装&#34;&gt;OBS Studio安装
+&lt;/h2&gt;&lt;p&gt;安装也是非常简单的，就跟一般软件安装差不多, 重点注意安装路径选择自己合适的安装目录就可以了!&lt;/p&gt;
 &lt;p&gt;其他基本上你也可以一直点击&lt;code&gt;next&lt;/code&gt;即可!&lt;/p&gt;
-&lt;h6 id=&#34;视频输出与码率优化&#34;&gt;视频输出与码率优化
-&lt;/h6&gt;&lt;p&gt;虽然这样我们现在可以录制桌面视频了，但是我们还需要对&lt;code&gt;OBS&lt;/code&gt;进行详细的设置和调整，以便于达到一个最优的配置,方便我们后期剪辑处理!&lt;/p&gt;
-&lt;p&gt;我们先点击&lt;code&gt;设置&lt;/code&gt;,选择&lt;code&gt;输出&lt;/code&gt;, 把&lt;code&gt;输出模式&lt;/code&gt;修改为&lt;code&gt;高级&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;视频输出与码率优化&#34;&gt;视频输出与码率优化
+&lt;/h2&gt;&lt;p&gt;虽然这样我们现在可以录制桌面视频了，但是我们还需要对&lt;code&gt;OBS&lt;/code&gt;进行详细的设置和调整，以便于达到一个最优的配置,方便我们后期剪辑处理!我们先点击&lt;code&gt;设置&lt;/code&gt;,选择&lt;code&gt;输出&lt;/code&gt;, 把&lt;code&gt;输出模式&lt;/code&gt;修改为&lt;code&gt;高级&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;录制视频的工具有很多，但&lt;code&gt;OBS&lt;/code&gt;绝对是全宇宙最强的、最好用的视频录制工具，所以有了它,你再也不用去花钱购买付费工具去录制视频了!~~&lt;/p&gt;
 </description>
         </item>

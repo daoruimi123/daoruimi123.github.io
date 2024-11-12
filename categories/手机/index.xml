@@ -13,9 +13,9 @@
         <pubDate>Fri, 08 Nov 2024 21:31:19 +0800</pubDate>
         
         <guid>http://localhost:1313/p/scrcpy%E5%AE%89%E5%8D%93%E6%8A%95%E5%B1%8F%E7%A5%9E%E5%99%A8/</guid>
-        <description>&lt;h3 id=&#34;scrcpyhttpssocsdnnetsosearchqscrcpyspm1001210130017020是一款免费开源的投屏软件它可以将安卓设备的屏幕投射到windowsmacoslinux等操作系统上并允许用户通过电脑直接控制设备&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://so.csdn.net/so/search?q=Scrcpy&amp;amp;spm=1001.2101.3001.7020&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Scrcpy&lt;/a&gt;是一款免费开源的投屏软件，它可以将安卓设备的屏幕投射到Windows、macOS、Linux等操作系统上，并允许用户通过电脑直接控制设备。
-&lt;/h3&gt;&lt;h2 id=&#34;一scrcpy简介&#34;&gt;一、Scrcpy简介
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://so.csdn.net/so/search?q=Scrcpy&amp;amp;spm=1001.2101.3001.7020&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Scrcpy&lt;/a&gt;是一款免费开源的投屏软件，它可以将安卓设备的屏幕投射到Windows、macOS、Linux等操作系统上，并允许用户通过电脑直接控制设备。&lt;/p&gt;
+&lt;h2 id=&#34;一scrcpy简介&#34;&gt;一、Scrcpy简介
 &lt;/h2&gt;&lt;p&gt;Scrcpy由Genymobile开发，旨在为用户提供一种高效、可靠的安卓设备&lt;a class=&#34;link&#34; href=&#34;https://so.csdn.net/so/search?q=%e5%b1%8f%e5%b9%95%e9%95%9c%e5%83%8f&amp;amp;spm=1001.2101.3001.7020&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;屏幕镜像&lt;/a&gt;和操作控制工具。&lt;/p&gt;
 &lt;h3 id=&#34;11-基本概述&#34;&gt;1.1. 基本概述
